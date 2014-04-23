@@ -21,11 +21,9 @@ http://ja.wikipedia.org/wiki/MIT_License
 
 このプログラムによって発生した、いかなる障害・損害も作成者は一切責任を負わないものとします。
 
-
 環境
 ---------------
 #. Windows 7
-#. Visual Studio 2010
 #. ActionScript 3.0 
 #. AIR 3.7
 #. Kinect SDK v1.8　

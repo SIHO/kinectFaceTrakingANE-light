@@ -42,7 +42,7 @@ package jp.vivamambo{
 		rect = new Rectangle(arr[0], arr[1], arr[2], arr[3]);
 		return rect;
 	}
-	////////life cycle ////////
+	////////life cycle //////////
 	/**
 	 * Kinectを初期化します。
 	 * @param	bool true だとnearMode ON false だとなし。
