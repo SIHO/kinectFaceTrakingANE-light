@@ -1,10 +1,26 @@
-KinectFaceTraking2D ANE 
+KinectFaceTraking2D ANE light
 ================================================
 
 このコードは Windows 用の ANE　を作成する際のサンプルです。
+ANEからkinectの情報を得るために仲介ライブラリとしてDLLを作成しています。
+こちらは 中村薫さんのコードを参考にさせていただいた上、添削までしていただきました。
+ありがとうございます！！
+kaorun55 / KinectSensor.h
+https://gist.github.com/kaorun55/c38970b82cb76d8f9b1f
 
-AdobeサイトにあるString や Numberのみならず、VectorやRect型のデータ取得方法についても書かれています。
+
+ANEのインターフェイス部分もAdobeサイトにあるString や Numberのみならず、VectorやRect型のデータ取得方法についても書かれています。
 より実践的な内容になっています。
+
+サンプルプログラムとソースコードも収録しました。
+Kinectの開発環境を整えた上でお試しください。
+※環境変数のPATHにkinectランタイム内のDLLへPATHが通っていることもお忘れなく！
+
+サンプルプログラム
+--------------
+kinectFTsample\kinectFTsample.air
+内のkinectFTsample.exeを起動してください。
+※キャプティブランタイムになっていますのでAIRのランタイムは不要です。
 
 
 ライセンス
@@ -24,6 +40,9 @@ http://ja.wikipedia.org/wiki/MIT_License
 環境
 ---------------
 #. Windows 7
+#. VisualStudio2012
+#. C++
+#. FlashDevelop v4.5.2.5
 #. ActionScript 3.0 
-#. AIR 3.7
+#. AIR 3.6
 #. Kinect SDK v1.8　

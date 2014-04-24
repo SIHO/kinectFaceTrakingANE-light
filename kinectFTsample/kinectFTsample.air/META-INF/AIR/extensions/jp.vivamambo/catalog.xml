@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="jp/vivamambo/KinectFaceTrakingLight" mod="1398314935475" signatureChecksum="3721236564" >
+        <def id="jp.vivamambo:KinectFaceTrakingLight" /> 
+        <dep id="trace" type="e" /> 
+        <dep id="__AS3__.vec:Vector" type="e" /> 
+        <dep id="flash.geom:Rectangle" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.geom:Point" type="e" /> 
+        <dep id="__AS3__.vec:Vector" type="s" /> 
+        <dep id="flash.geom:Rectangle" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="flash.geom:Point" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="_4beb6beef696361ed2a672939b2f4b0a55d05af75659606c7b87c34c05d2d8cc_flash_display_Sprite" mod="1398325633810" signatureChecksum="4084628235" >
+        <def id="_4beb6beef696361ed2a672939b2f4b0a55d05af75659606c7b87c34c05d2d8cc_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="8adbad25fea5be4a49fbed7cccc00a0c316b81243a66df6d5f88648b0c29a639"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>

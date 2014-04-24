@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\siho\documents\visual studio 2012\projects\facepointarrays\kinectfacetaking2d-light\KinectSensor.h(477): warning C4244: '=' : 'double' から 'LONG' への変換です。データが失われる可能性があります。
+c:\users\siho\documents\visual studio 2012\projects\facepointarrays\kinectfacetaking2d-light\KinectSensor.h(482): warning C4244: '=' : 'double' から 'LONG' への変換です。データが失われる可能性があります。
+     ライブラリ C:\Users\SIHO\Documents\Visual Studio 2012\Projects\FacePointArrays\Release\kinectFaceTraking2Dlight.lib とオブジェクト C:\Users\SIHO\Documents\Visual Studio 2012\Projects\FacePointArrays\Release\kinectFaceTraking2Dlight.exp を作成中
+  コード生成しています。
+  コード生成が終了しました。
+  kinectFaceTaking2D-light.vcxproj -> C:\Users\SIHO\Documents\Visual Studio 2012\Projects\FacePointArrays\Release\kinectFaceTraking2Dlight.dll

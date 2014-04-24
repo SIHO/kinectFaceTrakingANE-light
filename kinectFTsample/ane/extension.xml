@@ -1,0 +1,13 @@
+<extension xmlns="http://ns.adobe.com/air/extension/2.5">
+    <id>jp.vivamambo</id>
+    <versionNumber>1</versionNumber>
+    <platforms>
+      <platform name="Windows-x86">
+        <applicationDeployment>
+          <nativeLibrary>kinectFaceTraking2Dlight.dll</nativeLibrary>
+          <initializer>ExtInitializer</initializer>
+          <finalizer>ExtFinalizer</finalizer>
+        </applicationDeployment>
+      </platform>
+    </platforms>
+</extension>

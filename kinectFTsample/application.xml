@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<application xmlns="http://ns.adobe.com/air/application/3.9">
+	
+	<id>kinectFTsample</id> 
+	<versionNumber>1.0</versionNumber> 
+	<filename>kinectFTsample</filename> 
+	
+	<name>kinectFTsample</name> 
+	<description></description> 
+	<copyright></copyright> 
+	
+	<initialWindow> 
+		<title>kinectFTsample</title> 
+		<content>kinectFTsample.swf</content> 
+		<systemChrome>standard</systemChrome> 
+		<transparent>false</transparent> 
+		<visible>true</visible> 
+		<minimizable>true</minimizable> 
+		<maximizable>true</maximizable> 
+		<resizable>true</resizable> 
+	</initialWindow> 
+	
+<supportedProfiles>desktop extendedDesktop</supportedProfiles>
+  <extensions>
+    <extensionID>jp.vivamambo</extensionID>
+  </extensions>
+</application>
