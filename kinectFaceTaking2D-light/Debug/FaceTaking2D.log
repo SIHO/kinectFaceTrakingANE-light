@@ -1,6 +1,0 @@
-﻿  main.cpp
-c:\users\siho\documents\visual studio 2012\projects\facepointarrays\facetaking2d\kinectsensor.h(392): warning C4244: '=' : 'double' から 'LONG' への変換です。データが失われる可能性があります。
-c:\users\siho\documents\visual studio 2012\projects\facepointarrays\facetaking2d\kinectsensor.h(396): warning C4244: '=' : 'double' から 'LONG' への変換です。データが失われる可能性があります。
-c:\users\siho\documents\visual studio 2012\projects\facepointarrays\facetaking2d\main.cpp(43): warning C4244: '引数' : 'const FLOAT' から 'int' への変換です。データが失われる可能性があります。
-c:\users\siho\documents\visual studio 2012\projects\facepointarrays\facetaking2d\main.cpp(43): warning C4244: '引数' : 'const FLOAT' から 'int' への変換です。データが失われる可能性があります。
-  FaceTaking2D.vcxproj -> C:\Users\SIHO\documents\visual studio 2012\Projects\FacePointArrays\Debug\FaceTaking2D.exe
