@@ -49,7 +49,7 @@ Please try after improving the development environment of Kinect.
 
 
 
-Kinectから得られる情報 / Information acquired from Kinect 
+Kinectから得られる情報 / Information acquired from Kinect
 --------------
 #. 顔のエリアを囲む4点をRectとして
 #. 顔の中の100個の識別点をVector.<Point>として
@@ -60,7 +60,7 @@ Kinectから得られる情報 / Information acquired from Kinect
 
 
 
-サンプルプログラム / Sample program 
+サンプルプログラム / Sample program
 --------------
 kinectFTsample\kinectFTsample.air内のkinectFTsample.exeを起動してください。
 
@@ -105,12 +105,11 @@ In any obstacle and damage which occurred by this program, a maker makes respons
 #. FlashDevelop v4.5.2.5
 #. ActionScript 3.0 
 #. AIR 3.6
-#. Kinect SDK v1.8　
+#. Kinect SDK v1.8
 
 
 
 補足：顔認識以外のKinectの情報取得について / Supplement:About information acquisition of Kinect(s) other than facial recognition 
-
 ---------------
 顔認識以外のKinectの情報を取得するには、先人が開発した下記のANEが存在します。
 
